@@ -17,8 +17,8 @@ This is a calculator made in java, I made it to test some configurations and fea
  
 ### To install JDK & Netbeans:
 
-Download the latest version of JDK from [here](https://www.oracle.com/java/technologies/javase-downloads.html):
-Download the latest version of Netbeans from [here](https://netbeans.apache.org/download/index.html):
+- Download the latest version of JDK from [here](https://www.oracle.com/java/technologies/javase-downloads.html):
+- Download the latest version of Netbeans from [here](https://netbeans.apache.org/download/index.html):
 
 ## Final Notes
 
