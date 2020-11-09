@@ -28,7 +28,7 @@ This is a calculator made in java, I made it to test some configurations and fea
 
 ## License
 
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the BSD-3 License. See LICENSE for more information.
 
 ## Contact
 
