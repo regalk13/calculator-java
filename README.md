@@ -8,6 +8,7 @@
 This is a calculator made in java, I made it to test some configurations and features that apache netbeans gives me, I hope you like it, and you can modify it to your liking
 
 
+
 ## Installation of required components
 
 ### You will need:
@@ -21,7 +22,7 @@ Download the latest version of Netbeans from [here](https://netbeans.apache.org/
 
 ## Final Notes
 
-- if you just want to run it, open the file "Calculator.jar"
+- if you just want to run it, open the file "calculator.jar"
 
 - If you need to ask something my twitter is open.
 
