@@ -32,6 +32,6 @@ Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
 
-Regalk -@
+Regalk -@regalk2
 
 Project Link: https://github.com/regalk13/calculator-java
