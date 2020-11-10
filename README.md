@@ -25,8 +25,7 @@ This is a calculator made in java, I made it to test some configurations and fea
 Distributed under the BSD-3 License. See LICENSE for more information.
 
 ## Images
-
-https://user-images.githubusercontent.com/72028266/98610426-8aeec800-22bd-11eb-8a96-96ec31272429.png
+<img alt="img" src="https://user-images.githubusercontent.com/72028266/98610426-8aeec800-22bd-11eb-8a96-96ec31272429.png" width="50%" height="auto" />
 
 ## Final Notes
 
