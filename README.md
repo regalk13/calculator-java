@@ -20,15 +20,17 @@ This is a calculator made in java, I made it to test some configurations and fea
 - Download the latest version of JDK from [here](https://www.oracle.com/java/technologies/javase-downloads.html)
 - Download the latest version of Netbeans from [here](https://netbeans.apache.org/download/index.html)
 
+## License
+
+Distributed under the BSD-3 License. See LICENSE for more information.
+
+## Images
+
 ## Final Notes
 
 - if you just want to run it, open the file "calculator.jar"
 
 - If you need to ask something my twitter is open.
-
-## License
-
-Distributed under the BSD-3 License. See LICENSE for more information.
 
 ## Contact
 
